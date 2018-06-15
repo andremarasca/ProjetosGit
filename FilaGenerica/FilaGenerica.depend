@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1527815564 source:c:\users\andre\desktop\filagenerica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1527815624 c:\users\andre\desktop\filagenerica\fila.h
+
+1527815399 source:c:\users\andre\desktop\filagenerica\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1527815564 source:c:\users\andre\dropbox\algoritmos\estruturasuteisc\listas\filagenerica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1527817714 c:\users\andre\dropbox\algoritmos\estruturasuteisc\listas\filagenerica\fila.h
+
+1527817721 source:c:\users\andre\dropbox\algoritmos\estruturasuteisc\listas\filagenerica\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+

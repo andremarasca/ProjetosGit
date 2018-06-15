@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1527810328 source:c:\users\andre\desktop\pilhagenerica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1527808050 source:c:\users\andre\desktop\pilhagenerica\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1527810958 c:\users\andre\desktop\pilhagenerica\pilha.h
+
+1527810328 source:c:\users\andre\dropbox\algoritmos\estruturasuteisc\listas\pilhagenerica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1527817798 c:\users\andre\dropbox\algoritmos\estruturasuteisc\listas\pilhagenerica\pilha.h
+
+1527817782 source:c:\users\andre\dropbox\algoritmos\estruturasuteisc\listas\pilhagenerica\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
